@@ -23,7 +23,7 @@ beautifulsoup4==4.3.2
 lxml==4.9.1
 macropy==1.0.3
 pyzmq==14.7.0
-gevent==1.0.2
+gevent==23.9.0
 bson==0.4.1
 httplib2==0.9.1
 nltk==3.0.5
