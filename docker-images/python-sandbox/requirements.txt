@@ -26,7 +26,7 @@ pyzmq==14.7.0
 gevent==1.0.2
 bson==0.4.1
 httplib2==0.9.1
-nltk==3.0.5
+nltk==3.9
 web.py==0.37
 pycurl==7.19.5.1
 CherryPy==3.8.0
