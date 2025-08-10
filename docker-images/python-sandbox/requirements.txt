@@ -31,7 +31,7 @@ web.py==0.37
 pycurl==7.19.5.1
 CherryPy==3.8.0
 docutils==0.12
-Mako==1.0.2
+Mako==1.2.2
 mechanize==0.2.5
 feedparser==5.2.1
 xlrd==0.9.4
