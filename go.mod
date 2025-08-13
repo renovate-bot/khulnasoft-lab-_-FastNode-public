@@ -130,7 +130,7 @@ require (
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
 	golang.org/x/tools v0.0.0-20201022035929-9cf592e881e9
 	gonum.org/v1/plot v0.8.0
-	google.golang.org/grpc v1.33.1
+	google.golang.org/grpc v1.56.3
 	google.golang.org/protobuf v1.25.0
 	gopkg.in/gorp.v1 v1.7.2
 	gopkg.in/segmentio/analytics-go.v3 v3.1.0
