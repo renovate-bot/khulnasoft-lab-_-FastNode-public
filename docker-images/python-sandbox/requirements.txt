@@ -44,6 +44,6 @@ pyquery==1.2.10
 repoze.lru==0.6
 Routes==2.2
 six==1.10.0
-wheel==0.24.0
+wheel==0.38.1
 xlwt==1.0.0
 reflectutils==0.11
