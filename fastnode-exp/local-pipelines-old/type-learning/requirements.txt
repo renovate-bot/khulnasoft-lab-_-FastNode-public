@@ -1,4 +1,4 @@
-numpy==1.9.2
+numpy==1.22.0
 scipy==0.15.1
 Flask==0.10.1
 South==1.0.2
