@@ -39,7 +39,7 @@ require (
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/fsouza/go-dockerclient v1.6.6
 	github.com/go-errors/errors v1.1.1
-	github.com/go-git/go-git/v5 v5.2.0
+	github.com/go-git/go-git/v5 v5.13.0
 	github.com/go-ole/go-ole v1.2.4
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/goamz/goamz v0.0.0-20180131231218-8b901b531db8
