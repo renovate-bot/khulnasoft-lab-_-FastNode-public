@@ -21,7 +21,7 @@
     "less": "^2.5.1",
     "watch-less": "^0.0.x",
     "marked": "^0.3.5",
-    "shelljs": "^0.5.3",
+    "shelljs": "^0.8.5",
     "highlight.js": "^8.7.0",
     "mustache": "^2.1.3"
   },
